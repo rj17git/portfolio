@@ -1,0 +1,8 @@
+venv/
+.DS_Store
+.idea/
+*.log
+requirements.txt
+progit.pdf
+imgs/bad.jpg
+imgs/kayak.png
